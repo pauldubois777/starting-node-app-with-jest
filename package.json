@@ -1,0 +1,14 @@
+{
+  "name": "starting-node-app-with-jest",
+  "version": "1.0.0",
+  "description": "An empty node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Paul DuBois",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
