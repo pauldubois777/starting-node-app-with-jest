@@ -9,6 +9,7 @@
   "author": "Paul DuBois",
   "license": "ISC",
   "devDependencies": {
+    "@types/jest": "^28.1.1",
     "jest": "^28.1.1"
   }
 }
